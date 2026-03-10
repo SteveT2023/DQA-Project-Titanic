@@ -1,2 +1,7 @@
 # DQA-Project-Titanic
-Data Quality Analysis Project | "Titanic Machine Learning From Disaster" Dataset. 
+
+Welcome to my first project on being a Data Quality Analyst.
+
+In this project, my goal is to clean a dirty/raw dataset.
+
+Dataset: https://www.kaggle.com/competitions/titanic/overview
